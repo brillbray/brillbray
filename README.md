@@ -10,10 +10,7 @@ Brickey Game, the concept of the game is like air hockey game. Player A (left si
 
 Skills:  Unity / C# / C / PYTHON / HTML / CSS / JS / 
 
-- 🌱 I’m currently learning Game Design / Art 
-- 👯 I’m looking to collaborate on Game Programming 
-- 📫 How to reach me: Instagram / Whatsapp 
-- 😄 Pronouns: He/him 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/brillbray)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brillian-bray-996736265//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' color='white'>](https://www.instagram.com/brillbray/)  
