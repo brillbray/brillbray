@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Intern as a game programmer or game artist**
 
-- 👨‍💻 All of my projects are available at [https://brillbray.github.io/brillPortfolioWeb/](https://brillbray.github.io/brillPortfolioWeb/)
+- 👨‍💻 All of my projects are available at _[https://brillbray.github.io/brillPortfolioWeb/](https://brillbray.github.io/brillPortfolioWeb/)_
 
 - 💬 Ask me about **C, C#, Java, Javascript, ReactJS, Python, MySQL**
 
-- 📫 How to reach me **brillbrizz128@gmail.com**
+- 📫 How to reach me _**brillbrizz128@gmail.com**_
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1xHIBzeWk6FZZknLet71O5XR-2KXx1uAP?usp=sharing](https://drive.google.com/drive/folders/1xHIBzeWk6FZZknLet71O5XR-2KXx1uAP?usp=sharing)
+- 📄 Know about my experiences _[https://drive.google.com/drive/folders/1xHIBzeWk6FZZknLet71O5XR-2KXx1uAP?usp=sharing](https://drive.google.com/drive/folders/1xHIBzeWk6FZZknLet71O5XR-2KXx1uAP?usp=sharing)_
 
 - ⚡ Fun fact **I like to play guitar, swimming, drinking coffee**
 
