@@ -4,7 +4,6 @@
 
 <img align="right" width ="400" src ="https://github.com/brillbray/brillbray/assets/127038837/b35e8455-a8c4-415e-ab21-4e457dc07593">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brillbray&label=Profile%20views&color=0e75b6&style=flat" alt="brillbray" /> </p>
 
 - 🔭 I’m currently working on **Star Fell Game**
 
