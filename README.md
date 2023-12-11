@@ -1,7 +1,7 @@
-![Game Programmer | Game Designer ](https://github.com/brillbray/brillbray/assets/127038837/3fae6562-d220-4a88-806d-417840522684)
+![Game Programmer | 3D Artist ](https://github.com/brillbray/brillbray/assets/127038837/3fae6562-d220-4a88-806d-417840522684)
 
 <h1 align="center">Hi, I'm Brillian Braydent</h1>
-<h3 align="justify">People usually call me Brill. Currently, i am majoring in Game Application & Technology as a student at Bina Nusantara University. I like to do some simple game project, because i interested to work as a game programmer or 3D Artist , but sometimes i also like to do some art from pixel art, 2D line Art, also design a game with my own imagination of gameplay. I usually use unity to make game. Beside that, i also do some web project in my free time, like HTML, CSS, JS, included ReactJS from JS library, and some other programming languanges. </h3>
+<h3 align="justify">People usually call me Brill. Currently, i am majoring in Game Application & Technology as a student at Bina Nusantara University. I like to do some simple game project, because i interested to work as a game programmer or 3D Artist , but sometimes i also like to do pixel art, 2D line Art, also design a game with my own imagination of gameplay. I usually use unity to make game. Beside that, i also do some web project in my free time, like HTML, CSS, JS, included ReactJS from JS library, and some other programming languanges. </h3>
 
 <img align="right" width ="400" src ="https://github.com/brillbray/brillbray/assets/127038837/b35e8455-a8c4-415e-ab21-4e457dc07593">
 
