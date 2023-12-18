@@ -1,7 +1,7 @@
 ![Game Programmer | 3D Artist ](https://github.com/brillbray/brillbray/assets/127038837/3fae6562-d220-4a88-806d-417840522684)
 
 <h1 align="center">Hi, I'm Brillian Braydent</h1>
-<h3 align="justify">People usually call me Brill. Currently, i am majoring in Game Application & Technology as a student at Bina Nusantara University. I like to do some simple game project, because i interested to work as a game programmer or 3D Artist , but sometimes i also like to do pixel art, 2D line Art, also design a game with my own imagination of gameplay. I usually use unity to make game. Beside that, i also do some web project in my free time, like HTML, CSS, JS, included ReactJS from JS library, and some other programming languanges. </h3>
+<h3 align="justify">People usually call me Brill. Currently, i am majoring in Game Application & Technology as a student at Bina Nusantara University. In game development, i interested to work/intern as 3D Artist, 3D Environment or something. Now, i'm learning 3D Character Modelling & Advancing Texturing using Substance Painter. </h3>
 
 <img align="right" width ="400" src ="https://github.com/brillbray/brillbray/assets/127038837/b35e8455-a8c4-415e-ab21-4e457dc07593">
 
@@ -10,17 +10,14 @@
 
 - 🌱 I’m currently learning **3D FPS Game using unity**
 
-- 👯 I’m looking to collaborate on **Intern as a game programmer or game artist**
+- 👯 I’m looking to collaborate on **Intern as a beginner 3d artist / beginner game programmer**
 
 - 👨‍💻 All of my projects are available at _[https://brillbray.github.io/brillPortfolioWeb/](https://brillbray.github.io/brillPortfolioWeb/)_
-
-- 💬 Ask me about **C, C#, Java, Javascript, ReactJS, Python, MySQL**
 
 - 📫 How to reach me _**brillbrizz128@gmail.com**_
 
 - 📄 Know about my experiences _[https://drive.google.com/drive/folders/1xHIBzeWk6FZZknLet71O5XR-2KXx1uAP?usp=sharing](https://drive.google.com/drive/folders/1xHIBzeWk6FZZknLet71O5XR-2KXx1uAP?usp=sharing)_
 
-- ⚡ Fun fact **I like to play guitar, swimming, drinking coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
