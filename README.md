@@ -6,11 +6,11 @@
 <img align="right" width ="400" src ="https://github.com/brillbray/brillbray/assets/127038837/b35e8455-a8c4-415e-ab21-4e457dc07593">
 
 
-- 🔭 I’m currently working on **Star Fell Game**
+- 🔭 I’m currently working on **Sowterra Game**
 
-- 🌱 I’m currently learning **3D FPS Game using unity**
+- 🌱 I’m currently learning **3D FPS Game using Unreal Engine**
 
-- 👯 I’m looking to collaborate on **Intern as a beginner 3d artist / beginner game programmer**
+- 👯 I’m looking to collaborate in game company as game programmer / 3d modeler.
 
 - 👨‍💻 All of my projects are available at _[https://brillbray.github.io/brillPortfolioWeb/](https://brillbray.github.io/brillPortfolioWeb/)_
 
