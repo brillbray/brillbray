@@ -1,7 +1,7 @@
 ![Game Programmer | 3D Artist ](https://github.com/brillbray/brillbray/assets/127038837/3fae6562-d220-4a88-806d-417840522684)
 
 <h1 align="center">Hi, I'm Brillian Braydent</h1>
-<h3 align="justify">People usually call me Brill. Currently, i am majoring in Game Application & Technology as a student at Bina Nusantara University. In game development, i interested to work/intern as 3D Artist, 3D Environment or something. Now, i'm learning 3D Character Modelling & Advancing Texturing using Substance Painter. </h3>
+<h3 align="justify">People usually call me Brill. Currently, i am majoring in Game Application & Technology as a student at Bina Nusantara University. In game development, i interested to work as 3D Artist(Environment, props) and Game Programmer (Unreal Engine / Unity). Now, i'm learning 3D Character Modelling & Advancing Modular Techniques for creating reusable game assets </h3>
 
 <img align="right" width ="400" src ="https://github.com/brillbray/brillbray/assets/127038837/b35e8455-a8c4-415e-ab21-4e457dc07593">
 
