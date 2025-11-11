@@ -1,4 +1,4 @@
-![Fresh Graduate 3D Artist | Game Programmer](https://github.com/brillbray/brillbray/assets/127038837/3fae6562-d220-4a88-806d-417840522684)
+<img width="3780" height="1890" alt="BRILLIAN BRAYDENT" src="https://github.com/user-attachments/assets/bacaa2f5-3f69-4a23-b698-2e5768e8e022" />
 
 <h1 align="center">Hi, I'm Brillian Braydent</h1>
 <h3 align="justify">People usually call me Brill. I am a fresh graduate from Bina Nusantara University (Binus) majoring in Game Application & Technology. In game development, i interested to work as 3D Artist(Environment, props) and Game Programmer (Unreal Engine / Unity). Now, i'm still learning the 3D Character Modelling & Advancing Modular Techniques for creating reusable game assets </h3>
